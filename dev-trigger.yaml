@@ -1,0 +1,11 @@
+createTime: '2026-01-11T00:01:40.874053467Z'
+filename: cloudbuild-dev.yaml
+github:
+  name: sample-app
+  owner: brajesh-sahoo
+  push:
+    branch: ^dev$
+id: b372ec8c-efd5-4ff3-868e-11736c30fd19
+name: sample-app-dev-deploy
+resourceName: projects/qwiklabs-gcp-01-760c7a2032d3/locations/us-central1/triggers/b372ec8c-efd5-4ff3-868e-11736c30fd19
+serviceAccount: projects/qwiklabs-gcp-01-760c7a2032d3/serviceAccounts/qwiklabs-gcp-01-760c7a2032d3@qwiklabs-gcp-01-760c7a2032d3.iam.gserviceaccount.com
